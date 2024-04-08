@@ -7,6 +7,8 @@
 </ul>
 
 <h3 align="center">Project Screenshot:</h3>
-![Screenshot (11)](https://github.com/mariamrizwan01/Responsive-Netflix-Login-page/blob/main/assests/image.png)
+https://github.com/mariamrizwan01/Responsive-Netflix-Login-page/blob/main/assests/image.png
+
+
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
